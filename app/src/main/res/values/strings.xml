@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidLight</string>
+    <string name="action_settings">Settings</string>
+    <string name="bought">Baught</string>
+    <string name="new_color">New Color</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancle</string>
+    <string name="modes">Modes</string>
+</resources>
